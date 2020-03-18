@@ -1,0 +1,31 @@
+{
+  "name": "react-native-profile-picture",
+  "version": "1.0.0",
+  "description": "Profile picture component for React Native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react native",
+    "react native component",
+    "react native profile picture component",
+    "react native profile picture",
+    "react native custom profile picture"
+  ],
+  "author": "Tunahan Oğuz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tunahanoguz/react-native-profile-picture.git"
+  },
+  "homepage": "https://github.com/tunahanoguz/react-native-profile-picture#readme",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "dependencies": {
+    "prop-types": "*",
+  }
+}
