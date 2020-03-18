@@ -26,6 +26,6 @@
     "react-native": "*"
   },
   "dependencies": {
-    "prop-types": "*",
+    "prop-types": "*"
   }
 }
